@@ -1,0 +1,9 @@
+@import "./css/global/global.css";
+@import "./css/global/header.css";
+
+/* componentes */
+@import "./css/utilitarios/componentes.css";
+
+/* introdução */
+@import './css/home/introducao.css';
+
