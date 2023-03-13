@@ -1,0 +1,20 @@
+@import "./css/global/global.css";
+@import "./css/utilitarios/tipografia.css";
+@import "./css/utilitarios/cores.css";
+
+@import "./css/global/header.css";
+
+/* componentes */
+@import "./css/utilitarios/componentes.css";
+
+/* introdução */
+@import "./css/home/introducao.css";
+
+/* lista de bicicletas */
+@import "./css/home/bicicletas-lista.css";
+
+/* tecnologia */
+@import "./css/home/tecnologia.css";
+
+/* parceiros */
+@import "./css/home/parceiros.css";
